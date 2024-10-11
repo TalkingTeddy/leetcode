@@ -1,0 +1,1 @@
+.out.println(temp + " " + s[i] + " " + s[s.length - (1 + i)] + " " + Arrays.toString(s));
