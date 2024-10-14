@@ -1,1 +1,6 @@
-.out.println(temp + " " + s[i] + " " + s[s.length - (1 + i)] + " " + Arrays.toString(s));
+
+            // if (value == 0) {
+            //     System.err.println("Value is 0");
+            //     set.remove(t.charAt(i));
+            // } else {
+            // }
